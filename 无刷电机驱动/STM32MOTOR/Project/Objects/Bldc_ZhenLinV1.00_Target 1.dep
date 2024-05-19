@@ -1,0 +1,30 @@
+Dependencies for Project 'Bldc_ZhenLinV1.00', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (..\Include\Bldc.h)(0x63553124)()
+F (..\Include\Define.h)(0x63553124)()
+F (..\Include\Main.h)(0x63553124)()
+F (..\Include\Initialize.h)(0x63553124)()
+F (..\Include\Device.h)(0x63553124)()
+F (..\Include\DisPlay.h)(0x63553124)()
+F (..\Include\Protect.h)(0x6355311F)()
+F (..\Source\Bldc.c)(0x63553124)(--c99 --gnu -c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IE:\MDK\Packs\Keil\STM32G0xx_DFP\1.2.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include-IE:\MDK\KEILARM\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DSTM32G030xx-o .\objects\bldc.o --omf_browse .\objects\bldc.crf --depend .\objects\bldc.d)
+I (..\Source\..\Include\Bldc.h)(0x63553124)
+I (..\Source\..\Include\..\Include\Define.h)(0x63553124)
+I (..\Source\..\Include\..\Include\Device.h)(0x63553124)
+F (..\Source\Main.c)(0x63552DFC)(--c99 --gnu -c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IE:\MDK\Packs\Keil\STM32G0xx_DFP\1.2.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include-IE:\MDK\KEILARM\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DSTM32G030xx-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\Source\..\Include\Main.h)(0x63553124)
+I (..\Source\..\Include\..\Include\Define.h)(0x63553124)
+I (..\Source\..\Include\..\Include\Device.h)(0x63553124)
+F (..\Source\Startup.s)(0x63553124)(--cpu Cortex-M0+ -g --apcs=interwork -I.\RTE\_Target_1-IE:\MDK\Packs\Keil\STM32G0xx_DFP\1.2.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include-IE:\MDK\KEILARM\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 529" --pd "STM32G030xx SETA 1"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (..\Source\Initialize.c)(0x63553124)(--c99 --gnu -c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IE:\MDK\Packs\Keil\STM32G0xx_DFP\1.2.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include-IE:\MDK\KEILARM\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DSTM32G030xx-o .\objects\initialize.o --omf_browse .\objects\initialize.crf --depend .\objects\initialize.d)
+I (..\Source\..\Include\Initialize.h)(0x63553124)
+I (..\Source\..\Include\..\Include\Define.h)(0x63553124)
+I (..\Source\..\Include\..\Include\Device.h)(0x63553124)
+F (..\Source\DisPlay.c)(0x63553124)(--c99 --gnu -c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IE:\MDK\Packs\Keil\STM32G0xx_DFP\1.2.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include-IE:\MDK\KEILARM\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DSTM32G030xx-o .\objects\display.o --omf_browse .\objects\display.crf --depend .\objects\display.d)
+I (..\Source\..\Include\DisPlay.h)(0x63553124)
+I (..\Source\..\Include\..\Include\Define.h)(0x63553124)
+I (..\Source\..\Include\..\Include\Device.h)(0x63553124)
+F (..\Source\Protect.c)(0x63553109)(--c99 --gnu -c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IE:\MDK\Packs\Keil\STM32G0xx_DFP\1.2.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include-IE:\MDK\KEILARM\ARM\CMSIS\Include-D__UVISION_VERSION="529" -DSTM32G030xx-o .\objects\protect.o --omf_browse .\objects\protect.crf --depend .\objects\protect.d)
+I (..\Source\..\Include\Protect.h)(0x6355311F)
+I (..\Source\..\Include\..\Include\Define.h)(0x63553124)
+I (..\Source\..\Include\..\Include\Device.h)(0x63553124)
